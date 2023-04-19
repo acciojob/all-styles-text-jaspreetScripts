@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-#heading{
+#heading,#main{
 	background-color:purple;
 	width:200px;
 	border-left:5px solid green;
